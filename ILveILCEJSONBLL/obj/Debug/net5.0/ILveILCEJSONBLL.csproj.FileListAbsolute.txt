@@ -1,0 +1,14 @@
+C:\Users\103SABAH_ŞEYDA\source\repos\2Aralik2021\IlveIlceJSONOrnek\ILveILCEJSONBLL\bin\Debug\net5.0\ILveILCEJSONBLL.deps.json
+C:\Users\103SABAH_ŞEYDA\source\repos\2Aralik2021\IlveIlceJSONOrnek\ILveILCEJSONBLL\bin\Debug\net5.0\ILveILCEJSONBLL.dll
+C:\Users\103SABAH_ŞEYDA\source\repos\2Aralik2021\IlveIlceJSONOrnek\ILveILCEJSONBLL\bin\Debug\net5.0\ref\ILveILCEJSONBLL.dll
+C:\Users\103SABAH_ŞEYDA\source\repos\2Aralik2021\IlveIlceJSONOrnek\ILveILCEJSONBLL\bin\Debug\net5.0\ILveILCEJSONBLL.pdb
+C:\Users\103SABAH_ŞEYDA\source\repos\2Aralik2021\IlveIlceJSONOrnek\ILveILCEJSONBLL\bin\Debug\net5.0\ILveILCEJSON_ENTITYMODELS.dll
+C:\Users\103SABAH_ŞEYDA\source\repos\2Aralik2021\IlveIlceJSONOrnek\ILveILCEJSONBLL\bin\Debug\net5.0\ILveILCEJSON_ENTITYMODELS.pdb
+C:\Users\103SABAH_ŞEYDA\source\repos\2Aralik2021\IlveIlceJSONOrnek\ILveILCEJSONBLL\obj\Debug\net5.0\ILveILCEJSONBLL.csproj.AssemblyReference.cache
+C:\Users\103SABAH_ŞEYDA\source\repos\2Aralik2021\IlveIlceJSONOrnek\ILveILCEJSONBLL\obj\Debug\net5.0\ILveILCEJSONBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\103SABAH_ŞEYDA\source\repos\2Aralik2021\IlveIlceJSONOrnek\ILveILCEJSONBLL\obj\Debug\net5.0\ILveILCEJSONBLL.AssemblyInfoInputs.cache
+C:\Users\103SABAH_ŞEYDA\source\repos\2Aralik2021\IlveIlceJSONOrnek\ILveILCEJSONBLL\obj\Debug\net5.0\ILveILCEJSONBLL.AssemblyInfo.cs
+C:\Users\103SABAH_ŞEYDA\source\repos\2Aralik2021\IlveIlceJSONOrnek\ILveILCEJSONBLL\obj\Debug\net5.0\ILveILCEJSONBLL.csproj.CoreCompileInputs.cache
+C:\Users\103SABAH_ŞEYDA\source\repos\2Aralik2021\IlveIlceJSONOrnek\ILveILCEJSONBLL\obj\Debug\net5.0\ILveILCEJSONBLL.dll
+C:\Users\103SABAH_ŞEYDA\source\repos\2Aralik2021\IlveIlceJSONOrnek\ILveILCEJSONBLL\obj\Debug\net5.0\ref\ILveILCEJSONBLL.dll
+C:\Users\103SABAH_ŞEYDA\source\repos\2Aralik2021\IlveIlceJSONOrnek\ILveILCEJSONBLL\obj\Debug\net5.0\ILveILCEJSONBLL.pdb
